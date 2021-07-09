@@ -1,4 +1,4 @@
-#React Context Studing Project
+# React Context Studing Project
 
 Developed using react and used context for **sharing** state throught all the components
 
